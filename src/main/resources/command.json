@@ -1,0 +1,13 @@
+{
+  "spanish": {
+    "windows": {
+      "command": "ping",
+      "shipment": "-n",
+      "regex": {
+        "bytes": "bytes=(\\d+)",
+        "times": "tiempo=(\\d+)",
+        "ttfs": "TTL=(\\d+)"
+      }
+    }
+  }
+}

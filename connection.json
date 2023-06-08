@@ -1,0 +1,24 @@
+{
+  "Google": {
+    "host": "www.google.com.mx",
+    "shipments": 1,
+    "extra": "",
+    "intermittence": 1000,
+    "patience": 3,
+    "metrics": ["mean_times", "mean_bytes", "mean_loss", "mean_ttfs"],
+    "enable": true,
+    "notification": true,
+    "sound": true
+  },
+  "Facebook": {
+    "host": "www.facebook.com",
+    "shipments": 1,
+    "extra": "",
+    "intermittence": 2000,
+    "patience": 3,
+    "metrics": ["mean_times", "mean_bytes", "mean_loss", "mean_ttfs"],
+    "enable": true,
+    "notification": true,
+    "sound": true
+  }
+}
