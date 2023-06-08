@@ -1,0 +1,13 @@
+{
+  "Google" : {
+    "host" : "www.google.com.mx",
+    "shipments" : 2,
+    "extra" : "",
+    "intermittence" : 500,
+    "patience" : 2,
+    "metrics" : [ "min_times", "min_ttfs", "mean_times", "mean_ttfs", "max_times", "max_ttfs", "loss_times", "loss_ttfs" ],
+    "metric_use" : "mean_times",
+    "enable" : true,
+    "notification" : true
+  }
+}

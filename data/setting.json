@@ -1,0 +1,8 @@
+{
+  "language" : "Español",
+  "history" : 15,
+  "enable_sound" : true,
+  "custom_sound" : false,
+  "path_sound" : "sound/notifications.mp3",
+  "repetead" : 10
+}
