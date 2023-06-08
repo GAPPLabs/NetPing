@@ -1,9 +1,3 @@
-#Igonrar la carpeta target pero usar git add target*.jar para agregar archivo jar
-target/*/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-
 ### IntelliJ IDEA ###
 .idea/
 .idea/modules.xml
@@ -39,6 +33,3 @@ target/
 
 ### Mac OS ###
 .DS_Store
-/GEMA/nbproject/private/
-/GEMA/dist/
-/Prueba/nbproject/private/
